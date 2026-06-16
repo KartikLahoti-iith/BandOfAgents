@@ -1,0 +1,1718 @@
+[
+  {
+    "student_id": "S1000",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1001",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Python",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1002",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1003",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1004",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1005",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1006",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO101"
+    ],
+    "interests": [
+      "Verilog",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1007",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1008",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1009",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1010",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Verilog",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1011",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1012",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Surveying",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1013",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1014",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO102"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1015",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1016",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1017",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Verilog",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1018",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1019",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1020",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Verilog",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1021",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Verilog",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1022",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO103"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1023",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Verilog",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1024",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Surveying",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1025",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Python",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1026",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1027",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1028",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1029",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Machine Learning",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1030",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1031",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Computer Science",
+    "enrolled_courses": [
+      "CO104"
+    ],
+    "interests": [
+      "Verilog",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1032",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1033",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1034",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1035",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Surveying",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1036",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1037",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1038",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Surveying",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1039",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Surveying",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1040",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL105"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1041",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Python",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1042",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Python",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1043",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Surveying",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1044",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1045",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Surveying",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1046",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Machine Learning",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1047",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1048",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1049",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL106"
+    ],
+    "interests": [
+      "Surveying",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1050",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Surveying",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1051",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1052",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1053",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Control Systems",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1054",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1055",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1056",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Python",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1057",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1058",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL107"
+    ],
+    "interests": [
+      "Surveying",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1059",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1060",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1061",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Verilog",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1062",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Python",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1063",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1064",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Python",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1065",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Electrical Engineering",
+    "enrolled_courses": [
+      "EL108"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1066",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Verilog",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1067",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Control Systems",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1068",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Surveying",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1069",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1070",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Python",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1071",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1072",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1073",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME109"
+    ],
+    "interests": [
+      "Verilog",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1074",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1075",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1076",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1077",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1078",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Surveying",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1079",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Surveying",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1080",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1081",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME110"
+    ],
+    "interests": [
+      "Verilog",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1082",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Surveying",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1083",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Surveying",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1084",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1085",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1086",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Verilog",
+      "Control Systems"
+    ]
+  },
+  {
+    "student_id": "S1087",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Python",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1088",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME111"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1089",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Control Systems",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1090",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1091",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1092",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1093",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Control Systems",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1094",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1095",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1096",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1097",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Surveying",
+      "Machine Learning"
+    ]
+  },
+  {
+    "student_id": "S1098",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Mechanical",
+    "enrolled_courses": [
+      "ME112"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1099",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Python",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1100",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1101",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1102",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1103",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Machine Learning",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1104",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Surveying",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1105",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1106",
+    "degree": "B.Tech",
+    "batch_year": 2024,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI113"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1107",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1108",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1109",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1110",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1111",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Verilog",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1112",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Python",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1113",
+    "degree": "B.Tech",
+    "batch_year": 2025,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI114"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Structural Analysis"
+    ]
+  },
+  {
+    "student_id": "S1114",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Machine Learning",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1115",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1116",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Python"
+    ]
+  },
+  {
+    "student_id": "S1117",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1118",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1119",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Python",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1120",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Surveying",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1121",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1122",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Machine Learning",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1123",
+    "degree": "B.Tech",
+    "batch_year": 2026,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI115"
+    ],
+    "interests": [
+      "Surveying",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1124",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Control Systems",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1125",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Fluid Mechanics",
+      "Op-Amps"
+    ]
+  },
+  {
+    "student_id": "S1126",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Digital Systems",
+      "Fluid Mechanics"
+    ]
+  },
+  {
+    "student_id": "S1127",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Python",
+      "Thermodynamics"
+    ]
+  },
+  {
+    "student_id": "S1128",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Structural Analysis",
+      "Verilog"
+    ]
+  },
+  {
+    "student_id": "S1129",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Op-Amps",
+      "Digital Systems"
+    ]
+  },
+  {
+    "student_id": "S1130",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Surveying"
+    ]
+  },
+  {
+    "student_id": "S1131",
+    "degree": "B.Tech",
+    "batch_year": 2027,
+    "branch": "Civil",
+    "enrolled_courses": [
+      "CI116"
+    ],
+    "interests": [
+      "Thermodynamics",
+      "Digital Systems"
+    ]
+  }
+]

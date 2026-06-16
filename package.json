@@ -1,0 +1,31 @@
+{
+  "name": "universityagents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikLahoti-iith/BandOfAgents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KartikLahoti-iith/BandOfAgents/issues"
+  },
+  "homepage": "https://github.com/KartikLahoti-iith/BandOfAgents#readme",
+  "dependencies": {
+    "@thenvoi/sdk": "^0.1.6",
+    "dotenv": "^17.4.2",
+    "openai": "^6.42.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}

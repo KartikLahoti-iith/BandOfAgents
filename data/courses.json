@@ -1,0 +1,290 @@
+[
+  {
+    "course_id": "CO101",
+    "title": "Computer Science Core 101",
+    "department": "Computer Science",
+    "type": "Lab_Only",
+    "primary_batch": "B.Tech 2024 Computer Science",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Python",
+      "Structural Analysis"
+    ],
+    "schedule": {
+      "slot": "AN2",
+      "room": "LH-6"
+    },
+    "prof_id": "P001",
+    "ta_required": 2
+  },
+  {
+    "course_id": "CO102",
+    "title": "Computer Science Core 102",
+    "department": "Computer Science",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2025 Computer Science",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Structural Analysis",
+      "Python"
+    ],
+    "schedule": {
+      "slot": "D",
+      "room": "LH-4"
+    },
+    "prof_id": "P001",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CO103",
+    "title": "Computer Science Core 103",
+    "department": "Computer Science",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2026 Computer Science",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Control Systems",
+      "Python"
+    ],
+    "schedule": {
+      "slot": "A",
+      "room": "LH-3"
+    },
+    "prof_id": "P001",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CO104",
+    "title": "Computer Science Core 104",
+    "department": "Computer Science",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2027 Computer Science",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Verilog",
+      "Thermodynamics"
+    ],
+    "schedule": {
+      "slot": "A",
+      "room": "LH-4"
+    },
+    "prof_id": "P005",
+    "ta_required": 0
+  },
+  {
+    "course_id": "EL105",
+    "title": "Electrical Engineering Core 105",
+    "department": "Electrical Engineering",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2024 Electrical Engineering",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Control Systems",
+      "Python"
+    ],
+    "schedule": {
+      "slot": "D",
+      "room": "LH-3"
+    },
+    "prof_id": "P002",
+    "ta_required": 0
+  },
+  {
+    "course_id": "EL106",
+    "title": "Electrical Engineering Core 106",
+    "department": "Electrical Engineering",
+    "type": "Lab_Only",
+    "primary_batch": "B.Tech 2025 Electrical Engineering",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Python",
+      "Control Systems"
+    ],
+    "schedule": {
+      "slot": "FN2",
+      "room": "LH-6"
+    },
+    "prof_id": "P002",
+    "ta_required": 2
+  },
+  {
+    "course_id": "EL107",
+    "title": "Electrical Engineering Core 107",
+    "department": "Electrical Engineering",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2026 Electrical Engineering",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Machine Learning",
+      "Python"
+    ],
+    "schedule": {
+      "slot": "C",
+      "room": "LH-5"
+    },
+    "prof_id": "P002",
+    "ta_required": 0
+  },
+  {
+    "course_id": "EL108",
+    "title": "Electrical Engineering Core 108",
+    "department": "Electrical Engineering",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2027 Electrical Engineering",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Python",
+      "Control Systems"
+    ],
+    "schedule": {
+      "slot": "Q",
+      "room": "LH-3"
+    },
+    "prof_id": "P002",
+    "ta_required": 0
+  },
+  {
+    "course_id": "ME109",
+    "title": "Mechanical Core 109",
+    "department": "Mechanical",
+    "type": "Lab_Only",
+    "primary_batch": "B.Tech 2024 Mechanical",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "schedule": {
+      "slot": "AN2",
+      "room": "LH-6"
+    },
+    "prof_id": "P003",
+    "ta_required": 2
+  },
+  {
+    "course_id": "ME110",
+    "title": "Mechanical Core 110",
+    "department": "Mechanical",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2025 Mechanical",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Fluid Mechanics",
+      "Verilog"
+    ],
+    "schedule": {
+      "slot": "B",
+      "room": "LH-5"
+    },
+    "prof_id": "P003",
+    "ta_required": 0
+  },
+  {
+    "course_id": "ME111",
+    "title": "Mechanical Core 111",
+    "department": "Mechanical",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2026 Mechanical",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "schedule": {
+      "slot": "A",
+      "room": "LH-5"
+    },
+    "prof_id": "P003",
+    "ta_required": 0
+  },
+  {
+    "course_id": "ME112",
+    "title": "Mechanical Core 112",
+    "department": "Mechanical",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2027 Mechanical",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "schedule": {
+      "slot": "A",
+      "room": "LH-5"
+    },
+    "prof_id": "P003",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CI113",
+    "title": "Civil Core 113",
+    "department": "Civil",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2024 Civil",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Verilog",
+      "Op-Amps"
+    ],
+    "schedule": {
+      "slot": "B",
+      "room": "LH-4"
+    },
+    "prof_id": "P004",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CI114",
+    "title": "Civil Core 114",
+    "department": "Civil",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2025 Civil",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Control Systems",
+      "Op-Amps"
+    ],
+    "schedule": {
+      "slot": "Q",
+      "room": "LH-4"
+    },
+    "prof_id": "P004",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CI115",
+    "title": "Civil Core 115",
+    "department": "Civil",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2026 Civil",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Op-Amps",
+      "Control Systems"
+    ],
+    "schedule": {
+      "slot": "Q",
+      "room": "LH-5"
+    },
+    "prof_id": "P004",
+    "ta_required": 0
+  },
+  {
+    "course_id": "CI116",
+    "title": "Civil Core 116",
+    "department": "Civil",
+    "type": "Theory_Only",
+    "primary_batch": "B.Tech 2027 Civil",
+    "eligible_batches": [],
+    "required_qualifications": [
+      "Control Systems",
+      "Op-Amps"
+    ],
+    "schedule": {
+      "slot": "Q",
+      "room": "LH-3"
+    },
+    "prof_id": "P004",
+    "ta_required": 0
+  }
+]

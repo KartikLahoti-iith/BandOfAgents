@@ -1,0 +1,203 @@
+[
+  {
+    "room_id": "LH-1",
+    "type": "Lecture_Hall",
+    "seating_capacity": 20,
+    "current_occupancy_by_slot": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {},
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-2",
+    "type": "Lecture_Hall",
+    "seating_capacity": 30,
+    "current_occupancy_by_slot": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {},
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-3",
+    "type": "Lecture_Hall",
+    "seating_capacity": 25,
+    "current_occupancy_by_slot": {
+      "Monday": {
+        "D": {
+          "course_id": "EL105",
+          "in_use_seats": 10,
+          "available_seats": 15
+        }
+      },
+      "Tuesday": {
+        "A": {
+          "course_id": "CO103",
+          "in_use_seats": 10,
+          "available_seats": 15
+        },
+        "Q": {
+          "course_id": "CI116",
+          "in_use_seats": 10,
+          "available_seats": 15
+        }
+      },
+      "Wednesday": {
+        "Q": {
+          "course_id": "EL108",
+          "in_use_seats": 10,
+          "available_seats": 15
+        }
+      },
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-4",
+    "type": "Lecture_Hall",
+    "seating_capacity": 20,
+    "current_occupancy_by_slot": {
+      "Monday": {
+        "D": {
+          "course_id": "CO102",
+          "in_use_seats": 10,
+          "available_seats": 10
+        },
+        "Q": {
+          "course_id": "CI114",
+          "in_use_seats": 10,
+          "available_seats": 10
+        }
+      },
+      "Tuesday": {
+        "A": {
+          "course_id": "CO104",
+          "in_use_seats": 7,
+          "available_seats": 13
+        }
+      },
+      "Wednesday": {
+        "B": {
+          "course_id": "CI113",
+          "in_use_seats": 9,
+          "available_seats": 11
+        }
+      },
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-5",
+    "type": "Lecture_Hall",
+    "seating_capacity": 20,
+    "current_occupancy_by_slot": {
+      "Monday": {
+        "B": {
+          "course_id": "ME110",
+          "in_use_seats": 8,
+          "available_seats": 12
+        }
+      },
+      "Tuesday": {
+        "A": {
+          "course_id": "ME112",
+          "in_use_seats": 7,
+          "available_seats": 13
+        }
+      },
+      "Wednesday": {
+        "C": {
+          "course_id": "EL107",
+          "in_use_seats": 7,
+          "available_seats": 13
+        },
+        "A": {
+          "course_id": "ME111",
+          "in_use_seats": 9,
+          "available_seats": 11
+        },
+        "Q": {
+          "course_id": "CI115",
+          "in_use_seats": 8,
+          "available_seats": 12
+        }
+      },
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-6",
+    "type": "Hardware_Lab",
+    "seating_capacity": 40,
+    "current_occupancy_by_slot": {
+      "Monday": {
+        "AN2": {
+          "course_id": "CO101",
+          "in_use_seats": 7,
+          "available_seats": 33
+        }
+      },
+      "Tuesday": {
+        "FN2": {
+          "course_id": "EL106",
+          "in_use_seats": 7,
+          "available_seats": 33
+        }
+      },
+      "Wednesday": {
+        "AN2": {
+          "course_id": "ME109",
+          "in_use_seats": 8,
+          "available_seats": 32
+        }
+      },
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-7",
+    "type": "Hardware_Lab",
+    "seating_capacity": 30,
+    "current_occupancy_by_slot": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {},
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-8",
+    "type": "Hardware_Lab",
+    "seating_capacity": 30,
+    "current_occupancy_by_slot": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {},
+      "Thursday": {},
+      "Friday": {}
+    }
+  },
+  {
+    "room_id": "LH-9-Buffer",
+    "type": "Lecture_Hall",
+    "seating_capacity": 40,
+    "current_occupancy_by_slot": {
+      "Monday": {},
+      "Tuesday": {},
+      "Wednesday": {},
+      "Thursday": {},
+      "Friday": {}
+    },
+    "note": "Unassigned buffer room."
+  }
+]

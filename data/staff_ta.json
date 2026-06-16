@@ -1,0 +1,242 @@
+[
+  {
+    "ta_id": "TA_001",
+    "name": "MTech_Student_1",
+    "department": "Computer Science",
+    "qualifications": [
+      "Control Systems",
+      "Thermodynamics",
+      "Surveying"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_002",
+    "name": "MTech_Student_2",
+    "department": "Computer Science",
+    "qualifications": [
+      "Control Systems",
+      "Digital Systems",
+      "Op-Amps"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_003",
+    "name": "MTech_Student_3",
+    "department": "Computer Science",
+    "qualifications": [
+      "Structural Analysis",
+      "Control Systems",
+      "Verilog"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_004",
+    "name": "MTech_Student_4",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Surveying",
+      "Machine Learning",
+      "Fluid Mechanics"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_005",
+    "name": "MTech_Student_5",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Op-Amps",
+      "Machine Learning",
+      "Control Systems"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_006",
+    "name": "MTech_Student_6",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Op-Amps",
+      "Control Systems",
+      "Thermodynamics"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_007",
+    "name": "MTech_Student_7",
+    "department": "Mechanical",
+    "qualifications": [
+      "Machine Learning",
+      "Digital Systems",
+      "Python"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_008",
+    "name": "MTech_Student_8",
+    "department": "Mechanical",
+    "qualifications": [
+      "Verilog",
+      "Control Systems",
+      "Op-Amps"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_009",
+    "name": "MTech_Student_9",
+    "department": "Mechanical",
+    "qualifications": [
+      "Machine Learning",
+      "Thermodynamics",
+      "Digital Systems"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_010",
+    "name": "MTech_Student_10",
+    "department": "Civil",
+    "qualifications": [
+      "Thermodynamics",
+      "Machine Learning",
+      "Structural Analysis"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_011",
+    "name": "MTech_Student_11",
+    "department": "Civil",
+    "qualifications": [
+      "Python",
+      "Digital Systems",
+      "Thermodynamics"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  },
+  {
+    "ta_id": "TA_012",
+    "name": "MTech_Student_12",
+    "department": "Civil",
+    "qualifications": [
+      "Surveying",
+      "Control Systems",
+      "Fluid Mechanics"
+    ],
+    "max_hours_per_week": 10,
+    "current_assigned_hours": 0,
+    "assigned_courses": [],
+    "unavailable_blocks": [
+      {
+        "day": "Thursday",
+        "slot": "A",
+        "reason": "M.Tech Core Class"
+      }
+    ]
+  }
+]

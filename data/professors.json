@@ -1,0 +1,655 @@
+[
+  {
+    "prof_id": "P001",
+    "name": "Dr. Faculty_1",
+    "department": "Computer Science",
+    "qualifications": [
+      "Structural Analysis",
+      "Python",
+      "Control Systems"
+    ],
+    "assigned_courses": [
+      "CO101",
+      "CO102",
+      "CO103"
+    ],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      },
+      {
+        "day": "Monday",
+        "slot": "AN2",
+        "reason": "Teaching CO101",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Monday",
+        "slot": "D",
+        "reason": "Teaching CO102",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Tuesday",
+        "slot": "A",
+        "reason": "Teaching CO103",
+        "is_flexible": false,
+        "must_reschedule": true
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P002",
+    "name": "Dr. Faculty_2",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Machine Learning",
+      "Control Systems",
+      "Python"
+    ],
+    "assigned_courses": [
+      "EL105",
+      "EL106",
+      "EL107",
+      "EL108"
+    ],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      },
+      {
+        "day": "Monday",
+        "slot": "D",
+        "reason": "Teaching EL105",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Tuesday",
+        "slot": "FN2",
+        "reason": "Teaching EL106",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Wednesday",
+        "slot": "C",
+        "reason": "Teaching EL107",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Wednesday",
+        "slot": "Q",
+        "reason": "Teaching EL108",
+        "is_flexible": false,
+        "must_reschedule": true
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P003",
+    "name": "Dr. Faculty_3",
+    "department": "Mechanical",
+    "qualifications": [
+      "Thermodynamics",
+      "Verilog",
+      "Fluid Mechanics"
+    ],
+    "assigned_courses": [
+      "ME109",
+      "ME110",
+      "ME111",
+      "ME112"
+    ],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      },
+      {
+        "day": "Wednesday",
+        "slot": "AN2",
+        "reason": "Teaching ME109",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Monday",
+        "slot": "B",
+        "reason": "Teaching ME110",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Wednesday",
+        "slot": "A",
+        "reason": "Teaching ME111",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Tuesday",
+        "slot": "A",
+        "reason": "Teaching ME112",
+        "is_flexible": false,
+        "must_reschedule": true
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P004",
+    "name": "Dr. Faculty_4",
+    "department": "Civil",
+    "qualifications": [
+      "Control Systems",
+      "Verilog",
+      "Op-Amps"
+    ],
+    "assigned_courses": [
+      "CI113",
+      "CI114",
+      "CI115",
+      "CI116"
+    ],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      },
+      {
+        "day": "Wednesday",
+        "slot": "B",
+        "reason": "Teaching CI113",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Monday",
+        "slot": "Q",
+        "reason": "Teaching CI114",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Wednesday",
+        "slot": "Q",
+        "reason": "Teaching CI115",
+        "is_flexible": false,
+        "must_reschedule": true
+      },
+      {
+        "day": "Tuesday",
+        "slot": "Q",
+        "reason": "Teaching CI116",
+        "is_flexible": false,
+        "must_reschedule": true
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P005",
+    "name": "Dr. Faculty_5",
+    "department": "Computer Science",
+    "qualifications": [
+      "Thermodynamics",
+      "Verilog",
+      "Structural Analysis"
+    ],
+    "assigned_courses": [
+      "CO104"
+    ],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      },
+      {
+        "day": "Tuesday",
+        "slot": "A",
+        "reason": "Teaching CO104",
+        "is_flexible": false,
+        "must_reschedule": true
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P006",
+    "name": "Dr. Faculty_6",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Python",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P007",
+    "name": "Dr. Faculty_7",
+    "department": "Mechanical",
+    "qualifications": [
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Op-Amps"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P008",
+    "name": "Dr. Faculty_8",
+    "department": "Civil",
+    "qualifications": [
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Structural Analysis"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P009",
+    "name": "Dr. Faculty_9",
+    "department": "Computer Science",
+    "qualifications": [
+      "Python",
+      "Fluid Mechanics",
+      "Op-Amps"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P010",
+    "name": "Dr. Faculty_10",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Fluid Mechanics",
+      "Verilog",
+      "Machine Learning"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P011",
+    "name": "Dr. Faculty_11",
+    "department": "Mechanical",
+    "qualifications": [
+      "Digital Systems",
+      "Machine Learning",
+      "Structural Analysis"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P012",
+    "name": "Dr. Faculty_12",
+    "department": "Civil",
+    "qualifications": [
+      "Machine Learning",
+      "Surveying",
+      "Structural Analysis"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P013",
+    "name": "Dr. Faculty_13",
+    "department": "Computer Science",
+    "qualifications": [
+      "Digital Systems",
+      "Verilog",
+      "Surveying"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P014",
+    "name": "Dr. Faculty_14",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Fluid Mechanics",
+      "Verilog",
+      "Python"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P015",
+    "name": "Dr. Faculty_15",
+    "department": "Mechanical",
+    "qualifications": [
+      "Op-Amps",
+      "Surveying",
+      "Thermodynamics"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P016",
+    "name": "Dr. Faculty_16",
+    "department": "Civil",
+    "qualifications": [
+      "Thermodynamics",
+      "Machine Learning",
+      "Fluid Mechanics"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P017",
+    "name": "Dr. Faculty_17",
+    "department": "Computer Science",
+    "qualifications": [
+      "Digital Systems",
+      "Python",
+      "Thermodynamics"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P018",
+    "name": "Dr. Faculty_18",
+    "department": "Electrical Engineering",
+    "qualifications": [
+      "Thermodynamics",
+      "Structural Analysis",
+      "Machine Learning"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P019",
+    "name": "Dr. Faculty_19",
+    "department": "Mechanical",
+    "qualifications": [
+      "Control Systems",
+      "Thermodynamics",
+      "Surveying"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  },
+  {
+    "prof_id": "P020",
+    "name": "Dr. Faculty_20",
+    "department": "Civil",
+    "qualifications": [
+      "Thermodynamics",
+      "Verilog",
+      "Structural Analysis"
+    ],
+    "assigned_courses": [],
+    "busy_blocks": [
+      {
+        "day": "Friday",
+        "slot": "P",
+        "reason": "Department Meeting",
+        "is_flexible": false,
+        "must_reschedule": false
+      }
+    ],
+    "preferred_substitute_slots": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ]
+  }
+]

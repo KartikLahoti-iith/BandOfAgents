@@ -1,0 +1,61 @@
+[
+  {
+    "equipment_type": "GPU_Compute_Nodes",
+    "total_inventory": 30,
+    "in_maintenance": 1,
+    "usable_inventory": 29,
+    "allocations_by_slot": {
+      "Monday": {
+        "AN2": {
+          "allocated_to_course": "CO101",
+          "units_in_use": 13,
+          "units_available": 16
+        }
+      }
+    }
+  },
+  {
+    "equipment_type": "FPGA_Boards",
+    "total_inventory": 25,
+    "in_maintenance": 1,
+    "usable_inventory": 24,
+    "allocations_by_slot": {
+      "Tuesday": {
+        "FN2": {
+          "allocated_to_course": "EL106",
+          "units_in_use": 6,
+          "units_available": 18
+        }
+      }
+    }
+  },
+  {
+    "equipment_type": "CNC_Routers",
+    "total_inventory": 8,
+    "in_maintenance": 1,
+    "usable_inventory": 7,
+    "allocations_by_slot": {
+      "Wednesday": {
+        "AN2": {
+          "allocated_to_course": "ME109",
+          "units_in_use": 5,
+          "units_available": 2
+        }
+      }
+    }
+  },
+  {
+    "equipment_type": "Surveying_Total_Stations",
+    "total_inventory": 12,
+    "in_maintenance": 1,
+    "usable_inventory": 11,
+    "allocations_by_slot": {}
+  },
+  {
+    "equipment_type": "3D_Printers",
+    "total_inventory": 8,
+    "in_maintenance": 1,
+    "usable_inventory": 7,
+    "booking_queue": []
+  }
+]
